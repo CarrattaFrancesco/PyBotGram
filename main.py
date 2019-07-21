@@ -4,7 +4,7 @@ import time
 import os
 
 #token bot
-token = "746097334:AAE3yvGIUIdLxFqkuRDa5Sydv8DT7grjGpI"
+token = "xxxxx"
 #create directory
 try:
     # Create target Directory
